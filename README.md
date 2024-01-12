@@ -1,0 +1,1 @@
+The old deprecated mkdtimg was able to dump my huawei mate 9 running android 7 dts partition but the replacement python script couldnt. Took older dtc lib to compile so i compiled that static and shoehorned the whole thing together. It compiles and woorks thus far with limited testing.
